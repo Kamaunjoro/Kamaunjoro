@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamau Anthony 
 - 👀 I’m interested in Front-end web development. 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently in the ALX sioftware engineering programme.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me BagwellTeks@gmail.com
 
